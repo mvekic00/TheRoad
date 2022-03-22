@@ -282,7 +282,7 @@ html{
 .header-image{
     width:35%;
     animation-name:image-float;
-    animation-duration:10s; 
+    animation-duration:150s; 
     animation-iteration-count: infinite;
 }
 
